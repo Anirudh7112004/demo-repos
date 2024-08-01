@@ -1,4 +1,4 @@
 # demo-repos
 This is my first actual repository.
 <br>
-Author- Anirudh Suresh
+Author- Anirudh KC
